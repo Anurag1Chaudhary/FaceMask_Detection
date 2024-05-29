@@ -1,5 +1,12 @@
-#Face Mask Detection
+# Face Mask Detection
 
-In this Project,2 ipynb files are there.
-First one is taking input dataset and second one is for image processing and detecting the face mask.
+This project consists of two Jupyter notebooks:
+
+1. **Data Preparation (`facemaskdetection1.ipynb`)**:
+   - Handles the input dataset for face mask detection. This notebook is responsible for loading and preprocessing the dataset.
+
+2. **Face Mask Detection (`Facemaskdetection2.ipynb`)**:
+   - Performs image processing and detects face masks using machine learning techniques.
+
+
 
